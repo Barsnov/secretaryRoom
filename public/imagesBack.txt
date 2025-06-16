@@ -1,0 +1,217 @@
+[
+    {
+        "name": "door",
+        "src": "../../public/images/Door.svg",
+        "alt": "door",
+        "className": "door",
+        "style_right": "8",
+        "style_bottom": "8",
+        "zIndex": "2"
+    },
+
+    {
+        "name": "wall",
+        "src": "../../public/images/Wall.svg",
+        "alt": "wall",
+        "className": "wall",
+        "style_left": "0",
+        "style_top": "0",
+        "zIndex": "0"
+    },
+
+    {
+        "name": "floor",
+        "src": "../../public/images/Floor.svg",
+        "alt": "floor",
+        "className": "floor",
+        "style_left": "0",
+        "style_bottom": "0",
+        "zIndex": "1"
+    },
+
+    {
+        "name": "table",
+        "src": "../../public/images/Table.svg",
+        "alt": "table",
+        "className": "table",
+        "style_left": "27",
+        "style_bottom": "6",
+        "zIndex": "4",
+        "width": "620px"
+    },
+
+    {
+        "name": "bedsideTable",
+        "src": "../../public/images/BedsideTable.svg",
+        "alt": "bedsideTable",
+        "className": "bedsideTable",
+        "style_left": "78",
+        "style_bottom": "8",
+        "zIndex": "2"
+    },
+
+    {
+        "name": "garbage",
+        "src": "../../public/images/Garbage.svg",
+        "alt": "garbage",
+        "className": "garbage",
+        "style_left": "35",
+        "style_bottom": "8",
+        "zIndex": "2"
+    },
+
+    {
+        "name": "wardrobe",
+        "src": "../../public/images/Wardrobe.svg",
+        "alt": "wardrobe",
+        "className": "wardrobe",
+        "style_left": "-4",
+        "style_bottom": "7",
+        "zIndex": "6"
+    },
+
+    {
+        "name": "lightOne",
+        "src": "../../public/images/LightOne.svg",
+        "alt": "lightOne",
+        "className": "lightOne",
+        "style_left": "90",
+        "style_top": "0",
+        "zIndex": "10"
+    },
+
+    {
+        "name": "lightTwo",
+        "src": "../../public/images/LightTwo.svg",
+        "alt": "lightTwo",
+        "className": "lightTwo",
+        "style_left": "55",
+        "style_top": "0",
+        "zIndex": "10"
+    },
+
+    {
+        "name": "lightThree",
+        "src": "../../public/images/LightThree.svg",
+        "alt": "lightThree",
+        "className": "lightThree",
+        "style_left": "20",
+        "style_top": "0",
+        "zIndex": "10"
+    },
+
+    {
+        "name": "chair",
+        "src": "../../public/images/Chair.svg",
+        "alt": "chair",
+        "className": "chair",
+        "style_left": "62",
+        "style_bottom": "3",
+        "zIndex": 6,
+        "width": "320px"
+    },
+
+    {
+        "name": "luminaire",
+        "src": "../../public/images/Luminaire.svg",
+        "alt": "luminaire",
+        "className": "luminaire",
+        "style_left": "31",
+        "style_bottom": "33.6",
+        "zIndex": 4
+    },
+
+    {
+        "name": "clock",
+        "src": "../../public/images/Clock.svg",
+        "alt": "clock",
+        "className": "clock",
+        "style_left": "60",
+        "style_top": "27",
+        "zIndex": 10
+    },
+
+    {
+        "name": "cactus",
+        "src": "../../public/images/Cactus.svg",
+        "alt": "cactus",
+        "className": "cactus",
+        "style_left": "23",
+        "style_top": "42",
+        "zIndex": 7
+    },
+
+    {
+        "name": "screen",
+        "src": "../../public/images/Screen.svg",
+        "alt": "screen",
+        "className": "screen",
+        "style_left": "49",
+        "style_bottom": "34.3",
+        "zIndex": 3,
+        "width": "250px"
+    },
+
+    {
+        "name": "chancellery",
+        "src": "../../public/images/Chancellery.svg",
+        "alt": "chancellery",
+        "className": "chancellery",
+        "style_left": "38",
+        "style_bottom": "34.4",
+        "zIndex": 6
+    },
+
+    {
+        "name": "diplomaOne",
+        "src": "../../public/images/DiplomaOne.svg",
+        "alt": "diplomaOne",
+        "className": "diplomaOne",
+        "style_left": "92",
+        "style_top": "35",
+        "zIndex": 6
+    },
+
+    {
+        "name": "diplomaTwo",
+        "src": "../../public/images/DiplomaTwo.svg",
+        "alt": "diplomaTwo",
+        "className": "diplomaTwo",
+        "style_left": "80",
+        "style_top": "37",
+        "zIndex": 6
+    },
+
+    {
+        "name": "documentsInWardrobe",
+        "src": "../../public/images/DocumentsInWardrobe.svg",
+        "alt": "documentsInWardrobe",
+        "className": "documentsInWardrobe",
+        "style_left": "9",
+        "style_bottom": "28.5",
+        "zIndex": 6,
+        "width": "240px"
+    },
+
+    {
+        "name": "telephone",
+        "src": "../../public/images/Telephone.svg",
+        "alt": "telephone",
+        "className": "telephone",
+        "style_left": "73",
+        "style_bottom": "34",
+        "zIndex": 6,
+        "width": "90px"
+    },
+
+    {
+        "name": "typewriter",
+        "src": "../../public/images/Typewriter.svg",
+        "alt": "typewriter",
+        "className": "typewriter",
+        "style_left": "90",
+        "style_bottom": "24",
+        "zIndex": 6,
+        "width": "130px"
+    }
+]
